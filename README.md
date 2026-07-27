@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yash-58/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
