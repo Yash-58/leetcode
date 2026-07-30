@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Yash-58/leetcode/tree/master/0018-4sum) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
+| [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
+| [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
