@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yash-58/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yash-58/leetcode/tree/master/0018-4sum) |
+| [0039-combination-sum](https://github.com/Yash-58/leetcode/tree/master/0039-combination-sum) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
@@ -78,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Yash-58/leetcode/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/Yash-58/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
