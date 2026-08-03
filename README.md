@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yash-58/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Yash-58/leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Yash-58/leetcode/tree/master/0494-target-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-58/leetcode/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -108,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yash-58/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
