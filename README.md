@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Yash-58/leetcode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yash-58/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Yash-58/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash-58/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yash-58/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Matrix
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Yash-58/leetcode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 ## Manacher
 |  |
 | ------- |
@@ -122,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
