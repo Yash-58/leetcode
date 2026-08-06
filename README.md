@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yash-58/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Yash-58/leetcode/tree/master/0072-edit-distance) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yash-58/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yash-58/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Yash-58/leetcode/tree/master/0647-palindromic-substrings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3731-find-missing-elements](https://github.com/Yash-58/leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-58/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
