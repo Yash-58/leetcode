@@ -34,25 +34,25 @@ public:
         }
         return true;
     }
-    void nqueens(vector<string>& board,int row,vector<vector<string>>& ans,int n){
+    void nqueens(vector<string>& board,int row,int& count){
+        int n=board.size();
         if(row==n){
-            ans.push_back(board);
+            count++;
             return;
         }
         for(int j=0;j<n;j++){
             if(isSafe(board,row,j)){
                 board[row][j]='Q';
-                nqueens(board,row+1,ans,n);
+                nqueens(board,row+1,count);
                 board[row][j]='.';
             }
         }
     }
     int totalNQueens(int n) {
-        vector<vector<string>> ans;
         vector<string> board(n,string(n,'.'));
-
-        nqueens(board,0,ans,n);
-        return ans.size();
+        int count=0;
+        nqueens(board,0,count);
+        return count;
         
     }
 };
