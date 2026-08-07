@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-58/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Yash-58/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yash-58/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3731-find-missing-elements](https://github.com/Yash-58/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Database
 |  |
 | ------- |
@@ -113,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
+| [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
 | ------- |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Yash-58/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Yash-58/leetcode/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
