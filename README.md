@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Yash-58/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yash-58/leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Yash-58/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yash-58/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yash-58/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Yash-58/leetcode/tree/master/0046-permutations) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yash-58/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yash-58/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yash-58/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Yash-58/leetcode/tree/master/0046-permutations) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yash-58/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3731-find-missing-elements](https://github.com/Yash-58/leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -202,10 +206,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Yash-58/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Yash-58/leetcode/tree/master/0052-n-queens-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
