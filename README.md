@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/Yash-58/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/Yash-58/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Minimax
 |  |
 | ------- |
@@ -212,9 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Yash-58/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Yash-58/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
