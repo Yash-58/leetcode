@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Yash-58/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-58/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/Yash-58/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash-58/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-58/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yash-58/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Yash-58/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-58/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-58/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-58/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-58/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Yash-58/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Tree
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Yash-58/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-58/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Minimax
 |  |
@@ -304,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
