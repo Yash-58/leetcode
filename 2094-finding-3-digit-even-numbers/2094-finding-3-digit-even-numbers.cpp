@@ -1,48 +1,32 @@
 class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
-        vector<int> freq(10, 0);
-
-        // Count frequency of each digit
-        for (int d : digits) {
-            freq[d]++;
+        vector<int>ans;
+        unordered_map<int,int>mp;
+        for(auto ele:digits){
+            mp[ele]++;
         }
-
-        vector<int> ans;
-
-        // Check every 3-digit even number
-        for (int num = 100; num <= 998; num += 2) {
-            int x = num;
-
-            int ones = x % 10;
-            x /= 10;
-
-            int tens = x % 10;
-            x /= 10;
-
-            int hundreds = x;
-
-            // Count required digits
-            vector<int> need(10, 0);
-
-            need[ones]++;
-            need[tens]++;
-            need[hundreds]++;
-
-            bool possible = true;
-
-            for (int d = 0; d <= 9; d++) {
-                if (need[d] > freq[d]) {
-                    possible = false;
-                    break;
+        for(int i=100;i<=999;i=i+2){
+            int x=i;
+            int a=x%10;
+            x/=10;
+            int b=x%10;
+            x/=10;
+            int c=x;
+            
+            if(mp.find(a)!=mp.end()){
+                mp[a]--;
+                if(mp[a]==0) mp.erase(a);
+                
+                if(mp.find(b)!=mp.end()){
+                    mp[b]--;
+                    if(mp[b]==0) mp.erase(b);
+                    if(mp.find(c)!=mp.end()) ans.push_back(i);
+                    mp[b]++;
                 }
-            }
-
-            if (possible) {
-                ans.push_back(num);
+                mp[a]++;
             }
         }
-
-        return ans;
+       return ans;
     }
 };
