@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-58/leetcode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash-58/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Yash-58/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yash-58/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Yash-58/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/Yash-58/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Yash-58/leetcode/tree/master/1207-unique-number-of-occurrences) |
