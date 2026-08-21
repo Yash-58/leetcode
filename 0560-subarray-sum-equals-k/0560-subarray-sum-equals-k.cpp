@@ -1,11 +1,9 @@
 class Solution {
 public:
-    int subarraySum(vector<int>& nums, int k) {
-        int n=nums.size();
-        vector<int>pre(n,0);
-        pre[0]=nums[0];
-        for(int i=1;i<nums.size();i++){
-            pre[i]=nums[i]+pre[i-1];
+    int subarraySum(vector<int>& pre, int k) {
+        int n=pre.size();
+        for(int i=1;i<pre.size();i++){
+            pre[i]=pre[i]+pre[i-1];
         }
         unordered_map<int,int>mp;
         int count=0;
