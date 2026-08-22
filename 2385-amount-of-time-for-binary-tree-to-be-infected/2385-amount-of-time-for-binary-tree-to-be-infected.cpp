@@ -11,69 +11,58 @@
  */
 class Solution {
 public:
+    TreeNode* first=NULL;
+    void parent(TreeNode* root,unordered_map<TreeNode*,TreeNode*>& mp){
+        if(root==NULL) return;
+        if(root->left) mp[root->left]=root;
+        if(root->right) mp[root->right]=root;
+        parent(root->left,mp);
+        parent(root->right,mp);
+    }
+    void find(TreeNode* root, int start){
+        if(root==NULL) return;
+        if(root->val==start){
+            first=root;
+            return;
+        }
+        find(root->left,start);
+        find(root->right,start);
+    }
     int amountOfTime(TreeNode* root, int start) {
-        
-        unordered_map<TreeNode*, TreeNode*> parent;
-        
-        TreeNode* startNode = nullptr;
-        
-        // Create parent mapping
-        queue<TreeNode*> q;
-        q.push(root);
-        
-        while (!q.empty()) {
-            TreeNode* node = q.front();
-            q.pop();
-            
-            if (node->val == start)
-                startNode = node;
-            
-            if (node->left) {
-                parent[node->left] = node;
-                q.push(node->left);
-            }
-            
-            if (node->right) {
-                parent[node->right] = node;
-                q.push(node->right);
+       find(root,start);
+       unordered_map<TreeNode*,TreeNode*>mp;
+       parent(root,mp);
+
+       unordered_set<TreeNode*>s;
+       s.insert(first);
+       queue<pair<TreeNode*,int>>q;
+       q.push({first,0});
+       int maxLevel=0;
+       while(q.size()>0){
+        pair<TreeNode*,int>p=q.front();
+        q.pop();
+        int level=p.second;
+        maxLevel=max(maxLevel,level);
+        TreeNode* temp=p.first;
+        if(temp->left){
+            if(s.find(temp->left)==s.end()){
+                q.push({temp->left,level+1});
+                s.insert(temp->left);
             }
         }
-        
-        // BFS infection
-        unordered_set<TreeNode*> visited;
-        q.push(startNode);
-        visited.insert(startNode);
-        
-        int time = -1;
-        
-        while (!q.empty()) {
-            int size = q.size();
-            time++;
-            
-            while (size--) {
-                TreeNode* node = q.front();
-                q.pop();
-                
-                // Left child
-                if (node->left && !visited.count(node->left)) {
-                    visited.insert(node->left);
-                    q.push(node->left);
-                }
-                
-                // Right child
-                if (node->right && !visited.count(node->right)) {
-                    visited.insert(node->right);
-                    q.push(node->right);
-                }
-                
-                // Parent
-                if (parent.count(node) && !visited.count(parent[node])) {
-                    visited.insert(parent[node]);
-                    q.push(parent[node]);
-                }
+        if(temp->right){
+            if(s.find(temp->right)==s.end()){
+                q.push({temp->right,level+1});
+                s.insert(temp->right);
             }
         }
-        
-        return time;
+        if(mp.find(temp)!=mp.end()){
+             if(s.find(mp[temp])==s.end()){
+                q.push({mp[temp],level+1});
+                s.insert(mp[temp]);
+            }
+        }
+       }
+       return maxLevel;
     }
 };
