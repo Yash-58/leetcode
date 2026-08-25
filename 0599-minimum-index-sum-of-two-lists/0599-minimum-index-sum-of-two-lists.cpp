@@ -8,7 +8,7 @@ public:
          list1.clear();
         int Minsum=INT_MAX;
         for(int i=0;i<list2.size();i++){
-            if(mp.find(list2[i])!=mp.end()){
+            if(mp.count(list2[i])){
               int sum=mp[list2[i]]+i;
                 if(sum<Minsum){
                     Minsum=sum;
