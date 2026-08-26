@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Yash-58/leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Yash-58/leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yash-58/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yash-58/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yash-58/leetcode/tree/master/0018-4sum) |
+| [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/Yash-58/leetcode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yash-58/leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Yash-58/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-58/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Yash-58/leetcode/tree/master/0056-merge-intervals) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
