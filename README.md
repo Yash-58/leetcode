@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Yash-58/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-58/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Yash-58/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Yash-58/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Yash-58/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Yash-58/leetcode/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-58/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Yash-58/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Yash-58/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -431,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
