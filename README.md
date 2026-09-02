@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Yash-58/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Yash-58/leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-58/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yash-58/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Yash-58/leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-58/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Yash-58/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yash-58/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Yash-58/leetcode/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yash-58/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
