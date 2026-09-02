@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Yash-58/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2404-most-frequent-even-element](https://github.com/Yash-58/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yash-58/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Yash-58/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yash-58/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2404-most-frequent-even-element](https://github.com/Yash-58/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yash-58/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Yash-58/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-58/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2404-most-frequent-even-element](https://github.com/Yash-58/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yash-58/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Algorithm X
 |  |
