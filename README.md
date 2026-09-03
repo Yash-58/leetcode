@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash-58/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Yash-58/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Yash-58/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yash-58/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yash-58/leetcode/tree/master/0018-4sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yash-58/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Yash-58/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Yash-58/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Yash-58/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Yash-58/leetcode/tree/master/0072-edit-distance) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yash-58/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
