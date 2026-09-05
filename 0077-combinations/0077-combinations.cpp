@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void combinations(int start,int n,int k,vector<int>curr,vector<vector<int>> &ans){
+    void combinations(int start,int n,int k,vector<int> &curr,vector<vector<int>> &ans){
         if(curr.size()==k){
             ans.push_back(curr);
             return;
