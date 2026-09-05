@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Yash-58/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Yash-58/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Yash-58/leetcode/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/Yash-58/leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Yash-58/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Yash-58/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Yash-58/leetcode/tree/master/0257-binary-tree-paths) |
