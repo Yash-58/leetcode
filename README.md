@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Yash-58/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/Yash-58/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yash-58/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash-58/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Yash-58/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Yash-58/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Yash-58/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Yash-58/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yash-58/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Yash-58/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Yash-58/leetcode/tree/master/0216-combination-sum-iii) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yash-58/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Yash-58/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Yash-58/leetcode/tree/master/0645-set-mismatch) |
 ## Quicksort
