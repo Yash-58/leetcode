@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yash-58/leetcode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Yash-58/leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Yash-58/leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Yash-58/leetcode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Yash-58/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yash-58/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Yash-58/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Yash-58/leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Yash-58/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yash-58/leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yash-58/leetcode/tree/master/0257-binary-tree-paths) |
