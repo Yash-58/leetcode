@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Yash-58/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Yash-58/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Yash-58/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yash-58/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash-58/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Yash-58/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Yash-58/leetcode/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yash-58/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Yash-58/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yash-58/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Yash-58/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Yash-58/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Yash-58/leetcode/tree/master/0205-isomorphic-strings) |
