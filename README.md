@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Yash-58/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yash-58/leetcode/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
+| [0443-string-compression](https://github.com/Yash-58/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Yash-58/leetcode/tree/master/0647-palindromic-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yash-58/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-58/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yash-58/leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Yash-58/leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yash-58/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yash-58/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-58/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
