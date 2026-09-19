@@ -2,7 +2,7 @@ class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
         int lo=1;
-        int hi=arr.size()-2;
+        int hi=arr.size()-1;
 
         while(lo<=hi){
             int mid=lo+(hi-lo)/2;
