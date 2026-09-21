@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Yash-58/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Yash-58/leetcode/tree/master/0275-h-index-ii) |
 | [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Yash-58/leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Yash-58/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Yash-58/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Yash-58/leetcode/tree/master/0278-first-bad-version) |
 | [0450-delete-node-in-a-bst](https://github.com/Yash-58/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Yash-58/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
