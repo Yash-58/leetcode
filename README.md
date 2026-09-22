@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Yash-58/leetcode/tree/master/0275-h-index-ii) |
 | [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/Yash-58/leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Yash-58/leetcode/tree/master/0494-target-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yash-58/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-58/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Yash-58/leetcode/tree/master/0645-set-mismatch) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Yash-58/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yash-58/leetcode/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Yash-58/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Yash-58/leetcode/tree/master/0647-palindromic-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yash-58/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Yash-58/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Yash-58/leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Yash-58/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Yash-58/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yash-58/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yash-58/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-58/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Yash-58/leetcode/tree/master/0575-distribute-candies) |
