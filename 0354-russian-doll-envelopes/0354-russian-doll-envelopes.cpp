@@ -8,17 +8,18 @@ public:
                 return a[0] < b[0];
             });
           vector<int>ans;
-          for(auto num:envelopes){
-            int height=num[1];
-            if(ans.size()==0) ans.push_back(height);
-            if(height>ans.back()){
+      for (auto num : envelopes) {
+            int height = num[1];
+            if (ans.empty() || height > ans.back()) {
                 ans.push_back(height);
             }
-            else{
-                int index=lower_bound(ans.begin(),ans.end(),height)-ans.begin();
-                ans[index]=num[1];
+            else {
+                int index =
+                  lower_bound(ans.begin(), ans.end(), height)
+                  - ans.begin();
+                   ans[index] = height;
             }
-          }
+        }
           return ans.size();  
     }
 };
