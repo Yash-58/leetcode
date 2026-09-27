@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-58/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/Yash-58/leetcode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/Yash-58/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/Yash-58/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-58/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Yash-58/leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yash-58/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1051-height-checker](https://github.com/Yash-58/leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -660,4 +662,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Yash-58/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Yash-58/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yash-58/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Yash-58/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Yash-58/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
