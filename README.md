@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash-58/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Yash-58/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yash-58/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Yash-58/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yash-58/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-58/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Yash-58/leetcode/tree/master/0162-find-peak-element) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Yash-58/leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Yash-58/leetcode/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Yash-58/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yash-58/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Yash-58/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Yash-58/leetcode/tree/master/0322-coin-change) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Yash-58/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Yash-58/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yash-58/leetcode/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Yash-58/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Yash-58/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yash-58/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yash-58/leetcode/tree/master/0257-binary-tree-paths) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Yash-58/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Yash-58/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Yash-58/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Yash-58/leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Yash-58/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Yash-58/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yash-58/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Yash-58/leetcode/tree/master/0139-word-break) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -683,4 +688,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Yash-58/leetcode/tree/master/0796-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yash-58/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yash-58/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
