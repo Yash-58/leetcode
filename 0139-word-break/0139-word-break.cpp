@@ -1,26 +1,26 @@
 class Solution {
 public:
-    bool solve(string &s,int start,unordered_set<string>&dict,vector<int>&dp){
-        if(start==s.size()){
-            return true;
-        }
-        if(dp[start]!=-1){
-            return dp[start];
-        }
-        for(int i=start;i<s.size();i++){
-            string word=s.substr(start,i-start+1);
-            if(dict.count(word)){
-                if(solve(s,i+1,dict,dp)){
-                    return true;
+    bool wordBreak(string s, vector<string>& wordDict) {
+
+        unordered_set<string> dict(wordDict.begin(), wordDict.end());
+
+        int n = s.length();
+
+        vector<bool> dp(n + 1, false);
+
+        dp[0] = true;
+
+        for (int i = 1; i <= n; i++) {
+
+            for (int j = 0; j < i; j++) {
+
+                if (dp[j] && dict.count(s.substr(j, i - j))) {
+                    dp[i] = true;
+                    break;
                 }
             }
         }
-        return dp[start]=false;
-    }
-    bool wordBreak(string s, vector<string>& word) {
-        unordered_set<string>dict(word.begin(),word.end());
-        vector<int>dp(s.size(),-1);
-        return solve(s,0,dict,dp);
-        
+
+        return dp[n];
     }
 };
