@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yash-58/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-58/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-58/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-58/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yash-58/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-58/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-58/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-58/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-58/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yash-58/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-58/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-58/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-58/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Yash-58/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-58/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-58/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-58/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Yash-58/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yash-58/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
