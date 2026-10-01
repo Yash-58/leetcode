@@ -11,8 +11,8 @@ public:
         }
         if(sum/k>=threshold) count++;
         for(int start=k;start<n;start++){
-             sum+=arr[start];
-             sum-=arr[i];
+             sum+=arr[start]-arr[i];
+            //  sum-=arr[i];
              i++;
              if(sum/k>=threshold){
                 count++;
