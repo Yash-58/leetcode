@@ -1,47 +1,46 @@
 class Solution {
 public:
+    bool check(int mid,vector<int>& weights, int days){
+        int n=weights.size();
+        int m=mid;
+        int count=1;
 
-    bool check(int mid, vector<int>& weights, int days) {
-        int count = 1;
-        int capacity = mid;
-
-        for(int i = 0; i < weights.size(); i++) {
-
-            if(capacity >= weights[i]) {
-                capacity -= weights[i];
+        for(int i=0;i<n;i++){
+            if(m>=weights[i]){
+                m-=weights[i];
             }
-            else {
+            else{
                 count++;
-                capacity = mid;
-                capacity -= weights[i];
+                m=mid;
+                m-=weights[i];
             }
         }
-
-        return count <= days;
+        if(count>days) return false;
+        else return true;
     }
-
     int shipWithinDays(vector<int>& weights, int days) {
+        int n=weights.size();
+        int max=INT_MIN;
+        int sum=0;
 
-        int lo = 0;
-        int hi = 0;
-
-        for(int weight : weights) {
-            lo = max(lo, weight);
-            hi += weight;
+        for(int i=0;i<n;i++){
+            if(max<weights[i]) max=weights[i];
+            sum+=weights[i];
         }
+        int lo=max;
+        int hi=sum;
+        int capacity=sum;
 
-        while(lo <= hi) {
-
-            int mid = lo + (hi - lo) / 2;
-
-            if(check(mid, weights, days)) {
-                hi = mid - 1;
+        while(lo<=hi){
+            int mid=lo+(hi-lo)/2;
+            if(check(mid,weights,days)){
+                capacity=mid;
+                hi=mid-1;
             }
-            else {
-                lo = mid + 1;
+            else{
+                lo=mid+1;
             }
         }
-
-        return lo;
+        return capacity;
     }
 };
