@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-58/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Yash-58/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-58/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Yash-58/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2404-most-frequent-even-element](https://github.com/Yash-58/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-58/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Yash-58/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yash-58/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yash-58/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/Yash-58/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-58/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-58/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-58/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Yash-58/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Yash-58/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-58/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
