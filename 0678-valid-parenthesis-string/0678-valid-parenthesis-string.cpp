@@ -14,17 +14,15 @@ public:
                 low--;
                 high--;
             }
-            else { // '*'
-                low--;   // '*' can act as ')'
-                high++;  // '*' can act as '('
+            else { 
+                low--;  
+                high++; 
             }
 
             // Too many ')'
             if (high < 0) {
                 return false;
             }
-
-            // low cannot be negative
             low = max(low, 0);
         }
 
