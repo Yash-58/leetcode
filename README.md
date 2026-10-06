@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yash-58/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Yash-58/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Yash-58/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Yash-58/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Yash-58/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yash-58/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Yash-58/leetcode/tree/master/0415-add-strings) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Yash-58/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Yash-58/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Yash-58/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Yash-58/leetcode/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-58/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-58/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -760,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Yash-58/leetcode/tree/master/0139-word-break) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Yash-58/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
