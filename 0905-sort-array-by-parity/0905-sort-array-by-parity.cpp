@@ -5,9 +5,7 @@ public:
         int j=nums.size()-1;
         while(i<j){
             if(nums[i]%2!=0 && nums[j]%2==0){
-                int temp=nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
+                swap(nums[i],nums[j]);
             }
             else if(nums[i]%2==0){
                 i++;
