@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Yash-58/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Yash-58/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-58/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0748-shortest-completing-word](https://github.com/Yash-58/leetcode/tree/master/0748-shortest-completing-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yash-58/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yash-58/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Yash-58/leetcode/tree/master/0877-stone-game) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-58/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Yash-58/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Yash-58/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0748-shortest-completing-word](https://github.com/Yash-58/leetcode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Yash-58/leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Yash-58/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-58/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Yash-58/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-58/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Yash-58/leetcode/tree/master/0645-set-mismatch) |
+| [0748-shortest-completing-word](https://github.com/Yash-58/leetcode/tree/master/0748-shortest-completing-word) |
 | [1207-unique-number-of-occurrences](https://github.com/Yash-58/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
