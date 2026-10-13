@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Yash-58/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-58/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yash-58/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Yash-58/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-58/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
