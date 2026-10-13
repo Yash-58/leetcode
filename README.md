@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Yash-58/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yash-58/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash-58/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Yash-58/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/Yash-58/leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-58/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yash-58/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Yash-58/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yash-58/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2498-frog-jump-ii](https://github.com/Yash-58/leetcode/tree/master/2498-frog-jump-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Yash-58/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-58/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
