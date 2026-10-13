@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash-58/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3708-longest-fibonacci-subarray](https://github.com/Yash-58/leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-58/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-58/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yash-58/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yash-58/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yash-58/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yash-58/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-58/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yash-58/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Yash-58/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yash-58/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2498-frog-jump-ii](https://github.com/Yash-58/leetcode/tree/master/2498-frog-jump-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-58/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |
