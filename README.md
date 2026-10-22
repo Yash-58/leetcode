@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Yash-58/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yash-58/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yash-58/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Yash-58/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-58/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-58/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Yash-58/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash-58/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-58/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Yash-58/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-58/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yash-58/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Matrix
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yash-58/leetcode/tree/master/1406-stone-game-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yash-58/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-58/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Yash-58/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2235-add-two-integers](https://github.com/Yash-58/leetcode/tree/master/2235-add-two-integers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yash-58/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-58/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Yash-58/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Yash-58/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yash-58/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Yash-58/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-58/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-58/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-58/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-58/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Yash-58/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Yash-58/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Yash-58/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/Yash-58/leetcode/tree/master/2401-longest-nice-subarray) |
