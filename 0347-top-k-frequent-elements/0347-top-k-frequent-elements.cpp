@@ -6,7 +6,7 @@ public:
         for(int x:nums){
            mp[x]++;
         }
-        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>minHeap;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>minHeap;
         for(auto x:mp){
             minHeap.push({x.second,x.first});
             if(minHeap.size()>k){
@@ -14,7 +14,7 @@ public:
             }
         }
             while(!minHeap.empty()){
-                ans.push_back(minHeap.top()[1]);
+                ans.push_back(minHeap.top().second);
                 minHeap.pop();
         }
        return ans;
