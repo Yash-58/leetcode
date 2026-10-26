@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yash-58/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash-58/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yash-58/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Yash-58/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/Yash-58/leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-58/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-58/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yash-58/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Yash-58/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yash-58/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Yash-58/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yash-58/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/Yash-58/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dancing Links
 |  |
 | ------- |
@@ -913,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Yash-58/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yash-58/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quickselect
 |  |
 | ------- |
