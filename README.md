@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Yash-58/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Yash-58/leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Yash-58/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Yash-58/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yash-58/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-58/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-58/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Yash-58/leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Yash-58/leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Yash-58/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Yash-58/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-58/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yash-58/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yash-58/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yash-58/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Yash-58/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Yash-58/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-58/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Yash-58/leetcode/tree/master/0567-permutation-in-string) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Yash-58/leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Yash-58/leetcode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yash-58/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
