@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Yash-58/leetcode/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/Yash-58/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Yash-58/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yash-58/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Yash-58/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Yash-58/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yash-58/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Yash-58/leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Yash-58/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Yash-58/leetcode/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yash-58/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-58/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-58/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Yash-58/leetcode/tree/master/0836-rectangle-overlap) |
