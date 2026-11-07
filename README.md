@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Yash-58/leetcode/tree/master/0147-insertion-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Yash-58/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yash-58/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yash-58/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Yash-58/leetcode/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yash-58/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Yash-58/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yash-58/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-58/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-58/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-58/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yash-58/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yash-58/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-58/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
