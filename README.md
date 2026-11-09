@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yash-58/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yash-58/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yash-58/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Yash-58/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Yash-58/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Yash-58/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Yash-58/leetcode/tree/master/0051-n-queens) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yash-58/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Yash-58/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-58/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Yash-58/leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Yash-58/leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Yash-58/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Yash-58/leetcode/tree/master/0091-decode-ways) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yash-58/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Yash-58/leetcode/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/Yash-58/leetcode/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yash-58/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yash-58/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
