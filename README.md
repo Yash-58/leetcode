@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Yash-58/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Yash-58/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2235-add-two-integers](https://github.com/Yash-58/leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Yash-58/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yash-58/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-58/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash-58/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yash-58/leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Yash-58/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Design
 |  |
 | ------- |
